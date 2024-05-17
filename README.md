@@ -1,12 +1,12 @@
 # sql_challenge
- A challeneg at the capacity of a data engineer at Pewlett Hackard (a fictional company).
+ A challenge at the capacity of a data engineer at Pewlett Hackard (a fictional company).
 ## Pewlett Hackard Employee Database Project
 
 ### Introduction
-Welcome to the Pewlett Hackard Employee Database Project! In this project, we will design tables to hold data from six CSV files containing information about employees of Pewlett Hackard during the 1980s and 1990s. The project involves data modeling, data engineering, and data analysis tasks.
+Welcome to the Pewlett Hackard Employee Database Project! In this project, we will design tables to hold data from six CSV files containing information about employees of Pewlett Hackard during the 1980s and 1990s. The project involves data modelling, data engineering, and data analysis tasks.
 
 ### Objective
-The main objective of this project is to import the CSV files into a SQL database, design appropriate tables to store the data, and perform data analysis to answer specific questions about the employee data.
+The main objective of this project is to import the CSV files into a SQL database, design appropriate tables to store the data and perform data analysis to answer specific questions about the employee data.
 
 ## Project Structure
 The project is organized into the following sections:
